@@ -1,6 +1,13 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School"
 =======
 echo "ALX"
 >>>>>>> Revert "Hot fix"
+=======
+echo "ALX School is so cool!"
+=======
+echo "ALX School"
+>>>>>>> update_script
+>>>>>>> master
